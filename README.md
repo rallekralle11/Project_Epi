@@ -18,4 +18,6 @@ Some extra pins broken out
 
 Way too many vias
 
+Way too many hours routing for my sanity, and i doubt it's optimal(i am a beginner)
+
 Made to suit JLC manufacturing tolerances.
