@@ -8,11 +8,14 @@ No fuse
 
 Crenellated pins
 
-No integrated voltage converter, only runs at 2,7-5,5v
+No integrated voltage converter, only runs at 4,5-5,5v(down to 2,7 if you use it at 8mhz)
 
 USB-C connector sunk into the board, and slighly portruding from the end for panel mounting
 
 1,27mm pin spacing as i couldn't find any 1mm pin headers
 
+Some extra pins broken out
+
+Way too many vias
 
 Made to suit JLC manufacturing tolerances.
