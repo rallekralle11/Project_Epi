@@ -28,3 +28,6 @@ holes where M2 bolts can be used to hold it in place
 Made to suit JLC manufacturing tolerances.
 
 Includes some custom footprints with 3D models.
+
+![bottom](comparison.png)
+Comparison with the pro micro and official micro.
