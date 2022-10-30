@@ -1,4 +1,6 @@
-# Pro tiny
+# Epi
+
+Named after the Epipactis genus or orchids. The flower of one appears on the bottom of the board.
 
 ![board](board2.png)
 
