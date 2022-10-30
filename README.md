@@ -1,6 +1,6 @@
 # Pro tiny
 
-![board](https://user-images.githubusercontent.com/24244792/198892051-216f77c5-ee7f-4c6a-bb07-b490edb8a841.png)
+![board](board2.png)
 
 With such "amazing" features as:
 
