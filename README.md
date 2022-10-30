@@ -20,6 +20,8 @@ Some extra pins broken out
 
 Way too many hours routing for my sanity, and i doubt it's optimal(i am a beginner)
 
-holes where M2 bolts could be used to hold it in place
+holes where M2 bolts can be used to hold it in place
 
 Made to suit JLC manufacturing tolerances.
+
+Includes some custom footprints with 3D models.
