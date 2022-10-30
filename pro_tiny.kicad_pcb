@@ -770,7 +770,7 @@
       (net 1 "VBUS") (pinfunction "K") (pintype "passive") (tstamp 243fcc64-0ea5-428a-a385-ad7ad849b649))
     (pad "2" smd roundrect (at 0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 8 "RST") (pinfunction "A") (pintype "passive") (tstamp 288bad16-a07a-46f6-8450-b635473ed7de))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0402_1005Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/DIY/diode.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1319,7 +1319,7 @@
   )
 
   (gr_rect (start 99.25 56.5) (end 101.25 58.1) (layer "Dwgs.User") (width 0.2) (fill none) (tstamp 5b1b1c8d-6e61-47dd-9d16-61fc0a2c0d1e))
-  (gr_rect (start 121 34.5) (end 139 67.5) (layer "Dwgs.User") (width 0.2) (fill none) (tstamp 7f1dde59-720f-40cd-a921-a9ddfa263144))
+  (gr_rect (start 90.5 35) (end 108.5 68) (layer "Dwgs.User") (width 0.2) (fill none) (tstamp 7f1dde59-720f-40cd-a921-a9ddfa263144))
   (gr_line (start 106.25 36.3) (end 106.25 38.8) (layer "Edge.Cuts") (width 0.1) (tstamp 0226a3ca-ca15-4fd5-895c-e138f66fcd6d))
   (gr_line (start 93.75 36.3) (end 93.75 38.8) (layer "Edge.Cuts") (width 0.1) (tstamp 05c6226b-b78f-430b-a1f5-6576600bf21f))
   (gr_line (start 95.3 42.7) (end 96.5 42.2) (layer "Edge.Cuts") (width 0.1) (tstamp 0e3629ff-8e2f-4132-a664-3175d85b9aaa))
