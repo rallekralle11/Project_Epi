@@ -1082,7 +1082,7 @@
       (net 20 "unconnected-(J4-PadS1)") (pinfunction "SHIELD") (pintype "passive") (tstamp 8dc28798-284f-49fe-8c00-c5630978d88a))
     (pad "S1" thru_hole oval (at 5.6 -3 270) (size 2 1.2) (drill oval 1.4 0.6) (layers *.Cu *.Mask)
       (net 20 "unconnected-(J4-PadS1)") (pinfunction "SHIELD") (pintype "passive") (tstamp c4d48031-0cfc-45f4-b9f4-820764e61c9f))
-    (model "${KICAD6_3DMODEL_DIR}/DIY/USB-C MC-314C-4P16.stp"
+    (model "${KICAD6_3DMODEL_DIR}/DIY/USB-C.stp"
       (offset (xyz 0 0.15 -1.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
