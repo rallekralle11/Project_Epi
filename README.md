@@ -1,10 +1,10 @@
 # Pro tiny
 
-![board](https://user-images.githubusercontent.com/24244792/198892051-216f77c5-ee7f-4c6a-bb07-b490edb8a841.png)
+![board](board2.png)
 
 With such "amazing" features as:
 
-ESD protection taken from the official A. micro
+ESD protection taken from the official A. micro(most components are taken from the micro)
 
 No fuse
 
@@ -18,8 +18,8 @@ USB-C connector sunk into the board, and slighly portruding from the end for pan
 
 Some extra pins broken out
 
-Way too many vias
-
 Way too many hours routing for my sanity, and i doubt it's optimal(i am a beginner)
+
+holes where M2 bolts could be used to hold it in place
 
 Made to suit JLC manufacturing tolerances.
