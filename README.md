@@ -1,5 +1,7 @@
 # Pro tiny
 
+![board](https://user-images.githubusercontent.com/24244792/198892051-216f77c5-ee7f-4c6a-bb07-b490edb8a841.png)
+
 With such "amazing" features as:
 
 ESD protection taken from the official A. micro
