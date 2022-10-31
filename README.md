@@ -24,7 +24,7 @@ Way too many hours routing for my sanity, and i doubt it's optimal(i am a beginn
 
 Holes where M2 bolts can be used to hold it in place.
 
-No rx/tx/power LED. Only one on pin 13 for testing.
+No rx/tx/power LEDs. Only one on pin 13 for testing.
 
 Made to suit JLC manufacturing tolerances.
 
