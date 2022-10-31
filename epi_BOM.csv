@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C8,C2";"C_0402_1005Metric";2;"1µf";;;
+2;"RV1,RV2";"R_0402_1005Metric";2;"Varistor";;;
+3;"R4,R5";"R_0402_1005Metric";2;"56kΩ";;;
+4;"C1,C7";"C_0402_1005Metric";2;"100nf";;;
+5;"U1";"QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm";1;"ATmega32U4-M";;;
+6;"D2";"LED_0402_1005Metric";1;"LED_Small";;;
+7;"R2,R1";"R_0402_1005Metric";2;"22Ω";;;
+8;"R6,R7,R3";"R_0402_1005Metric";3;"10kΩ";;;
+9;"J3";"PinHeader_1x04_P1.27mm_Vertical";1;"Conn_01x04";;;
+10;"FB1";"R_0402_1005Metric";1;"MH2029-300Y";;;
+11;"D1";"D_0402_1005Metric";1;"D_Small";;;
+12;"C6,C4,C3,C5";"C_0402_1005Metric";4;"22pf";;;
+13;"J1,J2";"PinHeader_1x12_P1.27mm_Vertical";2;"Conn_01x12";;;
+14;"Y1";"Crystal_SMD_2016-4Pin_2.0x1.6mm";1;"16mhz";;;
+15;"R8";"R_0402_1005Metric";1;"1kΩ";;;
+16;"J4";"USB-C MC-314C-4P16";1;"USB_C_Receptacle_USB2.0";;;
