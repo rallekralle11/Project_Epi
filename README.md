@@ -29,4 +29,4 @@ Made to suit JLC manufacturing tolerances.
 Includes some custom footprints with 3D models.
 
 ![comp](comparison.png)
-Size comparison with the pro micro and official micro.
+Size comparisons.
