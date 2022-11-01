@@ -12,7 +12,7 @@ No fuse.
 
 Crenellated pins.
 
-No integrated voltage converter, only runs at 4,5-5,5v(down to 2,7 if you make it with an 8mhz crystal).
+No integrated voltage converter, only runs at 4,5-5,5v(down to 2,7 if you make it with an 8mhz crystal, or use the internal oscillator).
 
 USB-C connector sunk into the board, and slighly portruding from the end for panel mounting.
 
