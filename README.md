@@ -6,9 +6,7 @@ Named after the Epipactis genus or orchids. The flower of one appears on the bot
 
 With such "amazing" features as:
 
-Data line ESD protection taken from the official A. micro(most components are taken from the micro).
-
-No fuse.
+Data line ESD protection taken from the official A. micro.
 
 Crenellated pins.
 
