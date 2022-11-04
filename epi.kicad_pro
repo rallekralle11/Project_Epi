@@ -386,7 +386,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "pro_tiny.dsn",
-      "step": "",
+      "step": "epi.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
