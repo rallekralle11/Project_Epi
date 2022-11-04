@@ -15,3 +15,4 @@
 14;"Y1";"Crystal_SMD_2016-4Pin_2.0x1.6mm";1;"16mhz";;;
 15;"R8";"R_0402_1005Metric";1;"1kΩ";;;
 16;"J4";"USB-C MC-314C-4P16";1;"USB_C_Receptacle_USB2.0";;;
+17;"F1";"Fuse_0402_1005Metric";1;"Polyfuse_500mA";;;
