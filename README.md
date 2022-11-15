@@ -28,3 +28,5 @@ Includes some custom footprints with 3D models.
 
 ![comp](comparison.png)
 Size comparisons.
+
+Licensed under CERN-OHL-P v2
