@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "epi.kicad_prl",
+    "filename": "pro_tiny.kicad_prl",
     "version": 3
   },
   "project": {
