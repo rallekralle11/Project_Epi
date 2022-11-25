@@ -1,6 +1,6 @@
 # Epi
 
-Named after the Epipactis genus or orchids. The flower of one appears on the bottom of the board.
+Named after the Epipactis genus or orchids. The flower of one appears on the board.
 
 ![board](board3.png)
 
