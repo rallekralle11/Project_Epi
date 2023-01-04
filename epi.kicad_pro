@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.13999999999999999
+          "min_clearance": 0.127
         }
       },
       "diff_pair_dimensions": [
@@ -53,11 +53,6 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
-        },
-        {
-          "gap": 0.15,
-          "via_gap": 1.0,
-          "width": 0.24
         }
       ],
       "drc_exclusions": [],
@@ -108,7 +103,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.15,
+        "min_clearance": 0.127,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.155,
         "min_hole_to_hole": 0.25,
@@ -125,7 +120,7 @@
       },
       "track_widths": [
         0.0,
-        0.15,
+        0.127,
         0.2
       ],
       "via_dimensions": [
@@ -394,7 +389,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "epi.dsn",
+      "specctra_dsn": "pro_tiny.dsn",
       "step": "epi.step",
       "vrml": ""
     },
