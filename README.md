@@ -1,4 +1,6 @@
 # Epi
+# This thing is about to get launched on Crowd Supply!
+Also take a look at the better 4-layered version: https://github.com/rallekralle11/Epi_4L
 
 Named after the Epipactis genus or orchids. The flower of one appears on the board.
 
